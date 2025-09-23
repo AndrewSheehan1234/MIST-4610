@@ -23,7 +23,7 @@ The Season entity is used to separate the two tournaments (2018 and 2022) and is
 
 This model allows for many different queries, including  top goal scorers, average goals per match, the most common scorelines, and evaluating team or league performance.
 
-<img width="416" height="120" alt="Screenshot 2025-09-22 at 10 56 02 PM" src="https://github.com/user-attachments/assets/61c30c42-ec74-4232-b5ee-fe2d1010906c" />
+<img width="920" height="791" alt="Screenshot 2025-09-23 at 7 35 53 AM" src="https://github.com/user-attachments/assets/ce767f58-e6a1-4523-a882-e61859198a0a" />
 
 
 # Data Dictionary
