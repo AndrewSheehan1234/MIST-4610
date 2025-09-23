@@ -7,7 +7,7 @@
   - Avery Carabajal @AveryCarabajal
 
 # Scenario Description
-Our World Cup Database models the FIFA World Cup tournaments and provides a  way to analyze each match, player, team, league, season, and goal data. The database captures information from both the 2018 and 2022 tournaments and links the matches to the teams, players, and goals involved. This data system supports queries to calculate goal averages, find top scorers, explore team and league performance, and analyze tournament statistics over time. This database can help fans, managers, analysts, and even coaches to find valuable information about each player, and specific data about each team.
+Our World Cup Database models the FIFA World Cup tournaments and provides a  way to analyze each match, player, team, league, season, and goal data. The database stores information from the 2018 and 2022 tournaments and connects each match to the teams, players, and goals scored. This data model allows for queries to calculate goal averages, find top scorers, show team and league performance, and analyze tournament statistics over time. This database can help fans, managers, analysts, and even coaches to find valuable information about each player, and specific data about each team.
 
 
 
